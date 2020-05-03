@@ -15,5 +15,5 @@ List.insert(0, 'Monika')
 print(List)   
     
 # Using extend()   
-List.extend([8, 'Monika', 'Sharma'])   
+List.extend([8, 'Mitali', 'Sharma'])   
 print(List)
