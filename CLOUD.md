@@ -27,4 +27,4 @@ Here public clouds are needed.Hence, a hybrid cloud takes advantage of both publ
 and maintenance.
 
 To know more about cloud computing click below link
-![CLOUD COMPUTING](https://www.w3schools.in/cloud-computing/cloud-computing/)
+[CLOUD COMPUTING](https://www.w3schools.in/cloud-computing/cloud-computing/)
