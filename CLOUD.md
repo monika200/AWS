@@ -6,7 +6,7 @@ a service over a network (usually on the internet) rather than physically having
 Example: **AWS, Azure, Google Cloud.**
 
 To know about cloud more refer below image
-[CLOUD](https://www.conceptdraw.com/How-To-Guide/picture/cloud-computing-architecture-diagrams/Computer-Networks-Cloud-Computing-Diagrams-Cloud-Computing.png)**"Cloud Computing"**
+[CLOUD](https://www.conceptdraw.com/How-To-Guide/picture/cloud-computing-architecture-diagrams/Computer-Networks-Cloud-Computing-Diagrams-Cloud-Computing.png)
 
 # TYPES OF CLOUD
 **Public-** Public clouds are managed by third party which provide cloud services over the internet to public, these services are available
