@@ -5,6 +5,9 @@ hard drive. In other wordsCloud Computing can be defined as delivering computing
 a service over a network (usually on the internet) rather than physically having the computing resources at the customer location. 
 Example: **AWS, Azure, Google Cloud.**
 
+For more information on cloud click
+![Cloud Computing](https://user-images.githubusercontent.com/63012770/80925978-c6aa5180-8db1-11ea-982a-10ed4a19416d.png)
+
 
 # TYPES OF CLOUD
 **Public-** Public clouds are managed by third party which provide cloud services over the internet to public, these services are available
