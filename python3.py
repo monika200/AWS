@@ -1,5 +1,5 @@
-# Python program to demonstrate    
-# Addition of elements in a List   
+ # Python program to demonstrate    
+ # Addition of elements in a List   
       
 # Creating a List   
 List = [] 
