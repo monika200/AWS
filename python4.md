@@ -13,3 +13,6 @@ print(List)
 # using pop() 
 List.pop() 
 print(List)
+
+Output:
+![](Desktop://python4)
