@@ -3,7 +3,6 @@ Amazon EC2 (Elastic Compute Cloud), one of **'Amazon Web Services'** most well-k
 applications on the public cloud. Developers can create instances of virtual machines and easily configure the capacity scaling of 
 instances using the EC2 web interface.
 
-
 For more information on EC2 refer below link
 [EC2][https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html]
 
@@ -15,11 +14,12 @@ and documents to popular cloud storage products like Dropbox and Google Drive. T
 
 
 For more information on S3 refer below link
-[s3][https://docs.aws.amazon.com/AmazonS3/latest/dev/Welcome.html]
+[S3][https://docs.aws.amazon.com/AmazonS3/latest/dev/Welcome.html]
 
 # RDS
 Amazon RDS is a service which provides database connectivity through the Internet. RDS makes it very simple and easy to set-up 
 a relational database in the cloud. RDS is a fully managed RDBMS service.
+
 
 
 For more information on RDS refer below link
@@ -43,7 +43,7 @@ Using this user can create or manage the resources.
 For more information on IAM ROLES refer below link
 [RDS][https://docs.amazonaws.cn/en_us/IAM/latest/UserGuide/id_roles_use.html]
 
-# Serverless
+# SERVERLESS
 Serverless is a term that generally refers to serverless applications. Serverless applications are ones that don't need any server 
 provision and do not require to manage servers.
    
