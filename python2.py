@@ -1,5 +1,5 @@
- # Python program to demonstrate 
- # nested if statement 
+# Python program to demonstrate 
+# nested if statement 
   
   
 i = 13
