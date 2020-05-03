@@ -11,9 +11,9 @@ print(List)
     
 # Using insert() 
 List.insert(3, 12)   
-List.insert(0, 'Geeks') 
+List.insert(0, 'Monika') 
 print(List)   
     
 # Using extend()   
-List.extend([8, 'Geeks', 'Always'])   
+List.extend([8, 'Monika', 'Sharma'])   
 print(List)
