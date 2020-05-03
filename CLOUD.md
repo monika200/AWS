@@ -6,7 +6,7 @@ a service over a network (usually on the internet) rather than physically having
 Example: **AWS, Azure, Google Cloud.**
 
 For more information on cloud click
-![Cloud Computing](https://user-images.githubusercontent.com/63012770/80925978-c6aa5180-8db1-11ea-982a-10ed4a19416d.png)
+[Cloud Computing](https://user-images.githubusercontent.com/63012770/80925978-c6aa5180-8db1-11ea-982a-10ed4a19416d.png)
 
 
 # TYPES OF CLOUD
