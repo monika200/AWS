@@ -4,7 +4,7 @@ applications on the public cloud. Developers can create instances of virtual mac
 instances using the EC2 web interface.
 
 For more information on EC2 refer below link
-[EC2][https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html]
+[EC2](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html)
 
 # S3
 Amazon Simple Storage Service, widely known as **Amazon S3**, is a highly scalable, fast, and durable solution for object-level 
@@ -33,7 +33,7 @@ port 80.
 
 
 For more information on SECURITY GROUPS refer below link
-[SECURITY GROUPS][https://docs.aws.amazon.com/vpc/latest/userguide/VPC_SecurityGroups.html]
+[SECURITY GROUPS](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_SecurityGroups.html)
 
 # IAM ROLES
 IAM is abbreviated as Identity Access Management that allows users to manage access to AWS services and resources in a secure manner. 
@@ -41,7 +41,7 @@ Using this user can create or manage the resources.
 
 
 For more information on IAM ROLES refer below link
-[RDS][https://docs.amazonaws.cn/en_us/IAM/latest/UserGuide/id_roles_use.html]
+[RDS](https://docs.amazonaws.cn/en_us/IAM/latest/UserGuide/id_roles_use.html)
 
 # SERVERLESS
 Serverless is a term that generally refers to serverless applications. Serverless applications are ones that don't need any server 
@@ -55,4 +55,4 @@ Note: You should remember that you will charge for AWS services only when the AW
 anything.
 
 For more information on lambda refer below link
-[LAMBDA FUNCTTION][https://docs.aws.amazon.com/lambda/latest/dg/welcome.html]
+[LAMBDA FUNCTTION](https://docs.aws.amazon.com/lambda/latest/dg/welcome.html)
