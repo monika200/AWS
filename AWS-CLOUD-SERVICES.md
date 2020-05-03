@@ -1,11 +1,13 @@
-# EC2-Amazon EC2 (Elastic Compute Cloud), one of **'Amazon Web Services'** most well-known services, offers the ability to run 
+# EC2
+Amazon EC2 (Elastic Compute Cloud), one of **'Amazon Web Services'** most well-known services, offers the ability to run 
 applications on the public cloud. Developers can create instances of virtual machines and easily configure the capacity scaling of 
 instances using the EC2 web interface.
 
 For more information on EC2 refer below link
 [EC2][https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html]
 
-# S3-Amazon Simple Storage Service, widely known as **Amazon S3**, is a highly scalable, fast, and durable solution for object-level 
+# S3
+Amazon Simple Storage Service, widely known as **Amazon S3**, is a highly scalable, fast, and durable solution for object-level 
 storage of any data type. Unlike the operating systems we are all used to, Amazon S3 does not store files in a file system, instead it 
 stores files as objects. Object Storage allows users to upload files, videos, and documents like you were to upload files, videos, 
 and documents to popular cloud storage products like Dropbox and Google Drive. This makes Amazon S3 very flexible.
@@ -13,7 +15,8 @@ and documents to popular cloud storage products like Dropbox and Google Drive. T
 For more information on S3 refer below link
 [s3][https://docs.aws.amazon.com/AmazonS3/latest/dev/Welcome.html]
 
-# RDS-Amazon RDS is a service which provides database connectivity through the Internet. RDS makes it very simple and easy to set-up 
+# RDS
+Amazon RDS is a service which provides database connectivity through the Internet. RDS makes it very simple and easy to set-up 
 a relational database in the cloud. RDS is a fully managed RDBMS service.
 For more information on RDS refer below link
 [RDS][https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Welcome.html]
@@ -25,13 +28,13 @@ port 80.
 **Outbound** means outgoing traffic from your EC2 instances. To connect internet or any browser you have to add outbound rule.
 [SECURITY GROUPS][https://docs.aws.amazon.com/vpc/latest/userguide/VPC_SecurityGroups.html]
 
-# IAM ROLES-
+# IAM ROLES
 IAM is abbreviated as Identity Access Management that allows users to manage access to AWS services and resources in a secure manner. 
 Using this user can create or manage the resources.
 For more information on IAM ROLES refer below link
 [RDS][https://docs.amazonaws.cn/en_us/IAM/latest/UserGuide/id_roles_use.html]
 
-# Serverless?
+# Serverless
 Serverless is a term that generally refers to serverless applications. Serverless applications are ones that don't need any server 
 provision and do not require to manage servers.
    # LAMBDA FUNCTION-
