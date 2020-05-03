@@ -23,6 +23,7 @@ For more information on RDS click
 [RDS](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Welcome.html)
 
 # SECURITY GROUPS
+A security group acts as a virtual firewall for your instance to control inbound and outbound traffic. 
 # INBOUND AND OUTBOUND
 **Inbound** means incoming traffic coming to your EC2 instances. For that you have to add inbound rule. For web server generally we use 
 port 80.
