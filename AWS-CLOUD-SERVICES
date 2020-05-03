@@ -1,0 +1,16 @@
+# EC2-Amazon EC2 (Elastic Compute Cloud), one of **'Amazon Web Services'** most well-known services, offers businesses the ability to run 
+applications on the public cloud. Developers can create instances of virtual machines and easily configure the capacity scaling of 
+instances using the EC2 web interface.
+
+For more information on EC2 refer below link
+[EC2][https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html]
+
+# S3-
+
+# RDS-
+
+# INBOUND AND OUTBOUND-
+
+# IAM ROLES-
+
+# LAMBDA FUNCTION-
