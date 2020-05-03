@@ -14,5 +14,4 @@ print(List)
 List.pop() 
 print(List)
 
-Output:
-![python4](https://user-images.githubusercontent.com/63012770/80921921-29daba80-8d97-11ea-8b9d-f72267ba3e3d.PNG)
+
