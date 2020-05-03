@@ -24,5 +24,5 @@ Here public clouds are needed.Hence, a hybrid cloud takes advantage of both publ
 4. Efficiency-All resouces are managed by the cloud server, users don't have to worry about the underlying cost of infrastructure 
 and maintenance.
 
-To know more about cloud computing click below link
+To know more about cloud computing click
 [CLOUD COMPUTING](https://www.w3schools.in/cloud-computing/cloud-computing/)
