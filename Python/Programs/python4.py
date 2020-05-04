@@ -1,5 +1,5 @@
- # Python program to demonstrate    
- # Removal of elements in a List   
+  # Python program to demonstrate    
+  # Removal of elements in a List   
       
 # Creating a List   
 List = [1, 2, 3, 4, 5, 6,    
