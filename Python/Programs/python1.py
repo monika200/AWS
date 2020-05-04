@@ -1,4 +1,4 @@
-# Python program to declare variables 
+ # Python program to declare variables 
 myNumber = 3
 
 print(myNumber) 
