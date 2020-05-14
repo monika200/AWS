@@ -1,4 +1,4 @@
-This is a repository name AWS. It contains two files and a folder as follows.
+ This is a repository name AWS. It contains two files and a folder as follows.
 - Python - It contains python programs inside program sub folder and outputs in image folder.
 - Cloud - It explains 
   * What is Cloud?
